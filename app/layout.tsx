@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "Eventopia",
   description: "Eventopia is a platform for hosting and booking events.",
   icons: {
-    icon: "/assets/images/logo.svg",
+    icon: "/assets/images/logoo.svg",
   }
 };
 
